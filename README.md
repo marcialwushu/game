@@ -14,9 +14,9 @@ O princípio básico do Jogo do Bicho é apostar em um animal que corresponde a 
 
 - Cada tipo de aposta obedece proporções fixas, de acordo com a probabilidade de acerto, e que podem variar de cidade em cidade. Aqui no jogodobicho.net seguimos os tipos de apostas e as proporções de ganhos do Rio de Janeiro. Por exemplo, apostando em um animal na cabeça (1º. Prêmio) a proporção de ganho é de 1 para 18, ou seja, para cada Real apostado, você ganharia R$18,00 se seu animal saísse no sorteio. Abaixo seguem os outros tipos de aposta mais comuns (que explicaremos mais adiante ) e seus ganhos em reais, para cada R$1,00 apostado, para apostas no Rio de Janeiro: 
 
----* Milhar - R$: 4.000
+* Milhar - R$: 4.000
 
----* Centena - R$: 600
+* Centena - R$: 600
 
 * Dezena - R$: 60
 
